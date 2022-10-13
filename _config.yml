@@ -30,10 +30,8 @@ twitter_username: jekyllrb
 github_username:  jekyll
 gitlab_username:  pages
 
-# Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+theme: jekyll-theme-minimal
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
